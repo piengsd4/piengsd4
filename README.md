@@ -1,16 +1,14 @@
-## Hi there 👋
+## Greetings observer!
 
-<!--
-**piengsd4/piengsd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pieng, currently a software engineer based in Japan.
 
-Here are some ideas to get you started:
+I am fairly new to as a software engineer, although I did have an experience as a product owner before.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack currently is: Python (Django), Vue.js (Nuxt.js), and PostgreSQL. I am learning these through doing the projects I have pinned down if you want to see!
+
+I am also very passionate about video games and hope to be able to publish a meaningful one one day! If anyone want to talk about this, please reach out!
+
+About me:
+* I love many genres of music, mainly JPOP, KPOP, Western, Thai
+* I play and know LOTS of video games
+* I used to play volleyball but not at all since coming to Japan
